@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas3_2018125</string>
+    <string name="isi">iPhone adalah merek ponsel cerdas yang dirancang dan dipasarkan oleh Apple Inc. dan menggunakan sistem operasi telepon genggam iOS. iPhone generasi pertama diumumkan oleh CEO Apple Steve Jobs pada tanggal 9 Januari 2007. Sejak saat itu, Apple merilis model iPhone baru dan pembaruan iOS setiap tahun.</string>
+    <string name="harga">25.000.000</string>
+    <string name="deskripioppo">Oppo adalah merek ponsel cerdas teratas di Tiongkok pada tahun 2019 dan menduduki peringkat nomor 5 di seluruh dunia</string>
+    <string name="harga2">3.000.000</string>
+    <string name="deskripsirealme">Realme dalah perusahaan elektronik konsumen dan komunikasi seluler yang berbasis di Shenzhen, Tiongkok.</string>
+    <string name="harga3">4.000.000</string>
+</resources>
